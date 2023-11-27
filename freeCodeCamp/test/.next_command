@@ -34,3 +34,4 @@ cd website
 rm website
 cd ..
 rmdir images
+ls --color=auto
