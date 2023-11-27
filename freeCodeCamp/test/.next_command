@@ -1,0 +1,11 @@
+cd images
+ls --color=auto
+mv header.png website
+cd ~/project/website/images
+clear
+ls --color=auto
+touch header.png
+mv header.png website
+mv header.png ..
+touch header.png
+mv header.png ..
