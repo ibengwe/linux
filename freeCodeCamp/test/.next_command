@@ -22,3 +22,15 @@ mv images/footer.jpeg client/assets/images
 find
 rmdir images
 rm images/background.jpg
+rmdir images
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+rmdir images
+cd images
+ls --color=auto
+cd website
+rm website
+cd ..
+rmdir images
